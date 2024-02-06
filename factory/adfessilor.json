@@ -1,0 +1,9 @@
+{
+	"name": "adfessilor",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dc3e4395-0b80-48f5-bc19-dd3091464c5f",
+		"tenantId": "42f78800-9498-4c26-9548-8c7c50be6fea"
+	}
+}
